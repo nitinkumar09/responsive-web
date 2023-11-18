@@ -1,0 +1,25 @@
+.base-bg{
+    background-color:red;
+}
+@media only screen and (max-width:996px) {
+    #gate{
+    margin-left:-60px !important;
+    text-align: center;
+    margin-bottom:-30px !important;
+    }
+    .hax{
+        margin-left:90px !important;
+}
+#dog{
+    /* margin-top:-30px; */
+    margin-left:60px !important;
+}
+}
+@media only screen and (max-width:766px) {
+    #gate{
+    margin-left:60px !important;
+    text-align:center !important;
+    justify-content:center !important;
+    }
+
+}

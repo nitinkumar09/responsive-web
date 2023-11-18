@@ -1,0 +1,48 @@
+@media only screen and (max-width:1000px) {
+
+    #photo img{
+       margin-bottom:150px !important;
+    }
+}
+@media only screen and (max-width:1000px) {
+
+    #lal a{
+     /* height:365px !important;
+      */
+      padding:0px 0px !important;
+    }
+}
+@media only screen and (max-width:775px) {
+    #photo img{
+        margin-top:180px !important;
+    }
+}
+@media only screen and (max-width:770px) {
+
+    #photo img{
+       margin-bottom:600px !important;
+    }
+}
+/* @media only screen and (max-width:650px) {
+#pop{
+    margin-bottom:-400px !important;
+}
+#photo img{
+    margin-bottom:200px !important;
+}
+} */
+@media only screen and (max-width:1410px) {
+    .card{
+    
+      padding-left:15px !important;
+    }
+}
+
+@media only screen and (max-width:770px) {
+      
+        #panel{
+      margin: 0px 0px 0px 90px !important;
+            text-align:center;
+        }
+
+}
